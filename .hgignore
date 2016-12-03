@@ -1,0 +1,10 @@
+syntax:glob
+*.pyc
+*.pid
+*.log
+
+*.env/*
+*.vagrant/*
+*.logs/*
+*ssl/*
+__pycache__
