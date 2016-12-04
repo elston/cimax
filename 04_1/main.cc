@@ -30,7 +30,7 @@ public:
 int main(){
     // ...
     int i=0;
-    float result, val = 0.0;
+    float result, val = 1;
     int bulet, stem;
     int val_bulet, val_stem;    
 
@@ -49,7 +49,7 @@ int main(){
         i++;
 
         // ...
-        val = (val==0?1:val) * (1 + (pow(-1,i)/(2*i+1)));
+        val = val * (1 + (pow(-1,i)/(2*i+1)));
 
         // ...
         val_bulet = calc.bulet(val);
