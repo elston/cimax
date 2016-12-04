@@ -23,6 +23,12 @@
 ![02_2](https://github.com/elston/cimax/blob/master/02_2/main.jpg "02_2")
 ![02_2](https://github.com/elston/cimax/blob/master/02_2/main2.jpg "02_2")
 
+
+=========
+Задание № 2.3
+
+![02_3](https://github.com/elston/cimax/blob/master/02_3/main.jpg "02_3")
+
 =========
 Задание № 3.1
 
