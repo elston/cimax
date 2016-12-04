@@ -18,6 +18,11 @@
 ![02_1](https://github.com/elston/cimax/blob/master/02_1/main2.jpg "02_1")
 
 =========
+Задание № 2.2
+
+![02_2](https://github.com/elston/cimax/blob/master/02_2/main.jpg "02_2")
+
+=========
 Задание № 3.1
 
 ![03_1](https://github.com/elston/cimax/blob/master/03_1/main.jpg "03_1")
