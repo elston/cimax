@@ -15,6 +15,7 @@
 Задание № 2.1
 
 ![02_1](https://github.com/elston/cimax/blob/master/02_1/main.jpg "02_1")
+![02_1](https://github.com/elston/cimax/blob/master/02_1/main2.jpg "02_1")
 
 =========
 Задание № 3.1
